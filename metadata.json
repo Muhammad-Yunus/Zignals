@@ -1,0 +1,6 @@
+{
+  "name": "Zignals",
+  "description": "RF signal heatmap and Zigbee/WiFi mesh floorplan simulator with multi-wall propagation physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
