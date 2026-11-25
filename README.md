@@ -14,6 +14,8 @@
 
 ![Zignals Floorplan Heatmap Preview](./docs/zignals-preview.png)
 
+![Zignals RF Site Survey & Client Report Preview](./docs/zignals-client-report.png)
+
 </div>
 
 ---
@@ -34,7 +36,8 @@
 ```text
 zignals/
 ├── docs/
-│   └── zignals-preview.png          # Application UI & RF simulation screenshot
+│   ├── zignals-preview.png          # Application UI & RF simulation screenshot
+│   └── zignals-client-report.png    # RF Site Survey & Client Report modal screenshot
 ├── public/                          # Static public assets (aistudio/ ignored in git)
 ├── src/
 │   ├── components/
